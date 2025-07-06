@@ -2,4 +2,9 @@ pandas
 numpy
 seaborn 
 streamlit
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+#-e .
